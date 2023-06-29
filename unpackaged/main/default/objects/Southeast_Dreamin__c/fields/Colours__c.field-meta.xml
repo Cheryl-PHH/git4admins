@@ -14,6 +14,11 @@
                 <fullName>Blue</fullName>
                 <default>false</default>
                 <label>Blue</label>
+            </value> 
+            <value>
+                <fullName>Purple</fullName>
+                <default>false</default>
+                <label>Purple</label>
             </value>
             <value>
                 <fullName>Green</fullName>
